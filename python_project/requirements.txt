@@ -1,0 +1,7 @@
+# Installation requirements for Python The World Inventory Application
+# Works on Windows, macOS, and Linux systems.
+
+customtkinter>=5.2.0
+pillow>=10.0.0
+# Optional for advanced visual plotting (gracefully handled if missing)
+matplotlib>=3.7.0

@@ -1,0 +1,8 @@
+{
+  "name": "Python The World",
+  "description": "An interactive playground and simulator for custom Python CustomTkinter desktop applications, complete with file explorer, code viewer, and visual GUI emulation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
